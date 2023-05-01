@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\bin\Debug\net7.0\CalcularAumentoSalarial.exe
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\bin\Debug\net7.0\CalcularAumentoSalarial.deps.json
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\bin\Debug\net7.0\CalcularAumentoSalarial.runtimeconfig.json
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\bin\Debug\net7.0\CalcularAumentoSalarial.dll
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\bin\Debug\net7.0\CalcularAumentoSalarial.pdb
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\CalcularAumentoSalarial.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\CalcularAumentoSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\CalcularAumentoSalarial.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\CalcularAumentoSalarial.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\CalcularAumentoSalarial.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\CalcularAumentoSalarial.dll
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\refint\CalcularAumentoSalarial.dll
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\CalcularAumentoSalarial.pdb
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\CalcularAumentoSalarial.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\vsCode\Calculo-de-Aumento-Salarial\CalcularAumentoSalarial\obj\Debug\net7.0\ref\CalcularAumentoSalarial.dll
